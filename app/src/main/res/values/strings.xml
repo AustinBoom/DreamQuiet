@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DreamQuiet</string>
+    <string name="start">Start</string>
+    <string name="minutesToSilent">30</string>
+    <string name="timeUntilSilent">Minutes until silent</string>
+    <string name="timerVal">30</string>
+    <string name="decreaseTime">-</string>
+    <string name="IncreaseTime">+</string>
+    <string name="hourVal">0</string>
+    <string name="minVal">30</string>
+    <string name="reset">Reset</string>
+</resources>
